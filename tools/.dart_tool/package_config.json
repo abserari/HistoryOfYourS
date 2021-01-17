@@ -1,0 +1,80 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/archive-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.0"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/convert-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/crypto-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/image-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/petitparser-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/34903/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/xml-3.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "tools",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    }
+  ],
+  "generated": "2021-01-17T14:16:44.650277Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0-29.10.beta"
+}
